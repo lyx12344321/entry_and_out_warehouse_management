@@ -1,0 +1,6 @@
+.VSCodeCounter/*
+.vscode/*
+__pycache__/
+*.pyc
+/磅单图片
+*.xlsx
